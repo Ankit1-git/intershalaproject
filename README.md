@@ -15,8 +15,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 To get started, follow these steps:
 
 1. Clone this repository to your local machine using `git clone https://github.com/Ankit1-git/intershalaproject
-2. Navigate into the project directory: `cd-page`
+
+2 Navigate into the project directory: `cd-page`
+
 3.Install the necessary dependencies by running `npm install`
+
 4.npm start
 
 ### `npm test`
