@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![Screenshot 2024-04-12 073602](https://github.com/Ankit1-git/intershalaproject/assets/143837323/f6fa1a1a-7e2a-41aa-8844-2c2d4f6ade06)
 
 In the project directory, you can run:
 
@@ -11,8 +12,12 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To get started, follow these steps:
+
+1. Clone this repository to your local machine using `git clone https://github.com/Ankit1-git/intershalaproject
+2. Navigate into the project directory: `cd-page`
+3.Install the necessary dependencies by running `npm install`
+4.npm start
 
 ### `npm test`
 
